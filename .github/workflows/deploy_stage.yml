@@ -1,4 +1,4 @@
-name: AIO App CI
+name: Stage dep;oy
 
 on:
   push:
