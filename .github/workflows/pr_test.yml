@@ -1,4 +1,4 @@
-name: AIO App CI
+name: TEST
 
 on: [pull_request]
 jobs:
