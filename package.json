@@ -6,7 +6,7 @@
     "@adobe/aio-sdk": "^6",
     "node-fetch": "^2.6.0",
     "cloudevents": "^4.0.2",
-    "uuid": "^8.0.0",
+    "uuid": "^14.0.0",
     "core-js": "^3.6.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
